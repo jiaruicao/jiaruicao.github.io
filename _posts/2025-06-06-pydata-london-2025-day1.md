@@ -1,6 +1,6 @@
 ## PyData London 2025 - Day1 
 
-![PyData London 2025](images/pydata_day1_01.jpeg)
+![PyData London 2025](/images/pydata_london_2025/pydata_day1_01.jpeg)
 
 
 #### 🚀 Tutorial Day at PyData London 2025!

@@ -1,6 +1,6 @@
 ## PyData London 2025 - Day3
 
-![PyData London 2025](images/pydata_day3_01.jpeg)
+![PyData London 2025](/images/pydata_london_2025/pydata_day3_01.jpeg)
 
 We kicked off bright and early with **⚡️lightning talks**! There were so many excellent submissions that 👨‍💻 Emlyn Clay had to spin the lucky wheel to decide who got to present. Every talk was packed with insights—and lots of fun!
 

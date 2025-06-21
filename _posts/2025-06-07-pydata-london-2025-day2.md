@@ -1,6 +1,6 @@
 ## PyData London 2025 - Day2
 
-![PyData London 2025](images/pydata_day2_01.jpeg)
+![PyData London 2025](/images/pydata_london_2025/pydata_day2_01.jpeg)
 
 
 

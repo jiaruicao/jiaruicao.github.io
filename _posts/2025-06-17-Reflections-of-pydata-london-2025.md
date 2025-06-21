@@ -2,7 +2,7 @@
 
 *By Jiarui Cao, 21st June 2025*
 
-![PyData London 2025](images/pydata_day1_01.jpeg)
+![PyData London 2025](/images/pydata_london_2025/pydata_day1_01.jpeg)
 
 I have attended and volunteered at PyData London 2025 between 6-8 June. It was a fantastic few days of talks, tools, community, and learning.
 
@@ -24,7 +24,7 @@ A list of talks I attended and particularly enjoyed — with a few notes on why 
 - **Tutorial GPU Accelerated Python**  
   Speaker: Jacob Tomlinson and NVIDIA team  
   Key takeaways:
-  ![rapids](images/rapids.png)
+  ![rapids](/images/pydata_london_2025/rapids.png)
   - How to use CUDA with Python
   - How to use Numba to write kernel function 
   - CuPy: Numpy/SciPy-compatible library with GPU
