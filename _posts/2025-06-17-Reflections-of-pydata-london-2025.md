@@ -1,3 +1,9 @@
+---
+title: "Reflections on PyData London 2025"
+date: 2025-06-06
+categories: [Conference, PyData]
+tags: [pydata, linkedin, conference]
+---
 # Reflections on PyData London 2025
 
 *By Jiarui Cao, 21st June 2025*

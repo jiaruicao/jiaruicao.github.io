@@ -1,3 +1,9 @@
+---
+title: "PyData London 2025 - Day2"
+date: 2025-06-07
+categories: [Conference, PyData]
+tags: [pydata, linkedin, conference]
+---
 ## PyData London 2025 - Day2
 
 ![PyData London 2025](/images/pydata_london_2025/pydata_day2_01.jpeg)
